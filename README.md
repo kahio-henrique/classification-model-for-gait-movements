@@ -1,2 +1,3 @@
-# classification-model-for-gait-movements
-This section focuses on training a machine learning model to classify gait movements, specifically in the context of physiotherapy for amputees. The classification is based on features extracted from gait cycles, aiming to support rehabilitation by identifying different movement patterns accurately.
+# Training a Classification Model for Gait Movements
+
+This project focuses on training a machine learning model to classify gait movements in the context of physiotherapy for amputees. The classification is performed using features extracted from gait cycles, with the goal of supporting rehabilitation by accurately identifying different movement patterns.
